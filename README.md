@@ -1,6 +1,6 @@
 # Shopping Basket implementation
 
-I used Maven 3.3.3 and Java 1.8.0_121
+I used Maven 3.3.3 and Java 1.8.0_121</br>
 Build and run Tests / BDD with Maven:   mvn clean install
 
 ## The Exercise
